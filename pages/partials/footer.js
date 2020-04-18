@@ -1,3 +1,4 @@
+// footer
 export default () => {
   return (
     <footer className="footer">

@@ -12,5 +12,15 @@
     "next-routes": "^1.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "name": "seans-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pneal1995/seans-blog.git",
+  "author": "Preston Neal <preston@afcamail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lru-cache": "^5.1.1",
+    "semantic-release": "^17.0.6"
   }
 }
